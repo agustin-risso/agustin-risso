@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Agustín Risso from Rosario, Argentina<br><br>- 🔭 I’m working as <br>- 📚 I'm currently learning React.js, Tailwind and english<br>- ⚡ In my free time I like to play chess online and watch sports</p>
+<p align="left">I'm Agustín Risso from Rosario, Argentina<br><br>- 🔭 I’m working as <br>- 📚 I'm currently learning React.js and english<br>- ⚡ In my free time I like to play chess online and watch sports</p>
 
 ###
 
